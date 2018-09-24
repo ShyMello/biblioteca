@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Aluno cadastrado</title>
+<title>Aluno cadastrado - Shyrlane</title>
 </head>
 <body>
 <h1>O Aluno ${param.nome } foi cadastrado com sucesso!</h1>
